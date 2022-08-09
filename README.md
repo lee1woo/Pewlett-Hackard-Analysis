@@ -33,7 +33,7 @@ which resulted in the following output:
 
 ![image5](https://user-images.githubusercontent.com/102992388/183769547-5377917f-c66c-4cbc-bbf0-d68d5b049957.png)
 
-In ordre to count how many employees qualified for mentorship, I used the following code: 
+In order to count how many employees qualified for mentorship, I used the following code: 
 
 ```
 select count(*) from mentorship_eligibility;
